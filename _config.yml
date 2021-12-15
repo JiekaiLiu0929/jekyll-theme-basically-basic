@@ -17,7 +17,7 @@ lang: en-US
 title: Jackie
 email:
 description: 刘洁铠的Jekyll期末网站作业
-baseurl: "Jackie_" # the optional subpath of your site, e.g. "/blog"
+baseurl: "Jackie_zero" # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
